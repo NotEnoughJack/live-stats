@@ -23,7 +23,7 @@ app.get("/", async (req, res) => {
     <!DOCTYPE html>
     <html lang="en">
     <head>
-      <meta property="og:title" content="Kenma GUI | Live Stats" />
+      <meta property="og:title" content="Jack's GUI | Live Stats" />
       <meta property="og:description" content="Executions: ${totalExecutions} | Users: ${uniqueUsers} | Top Game: ${topGame}" />
       <meta property="og:image" content="https://notenoughjack.github.io/images/discord.png" />
       <meta property="og:url" content="https://notenoughjack.github.io/" />
