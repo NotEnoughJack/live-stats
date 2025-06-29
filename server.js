@@ -9,7 +9,7 @@ app.use(cors());
 
 // Example: Replace with your real stats source
 async function getStats() {
-  const res = await fetch("https://your-discord-stats-api.onrender.com/stats");
+  const res = await fetch("https://your-discord-stats-api-1.onrender.com/stats");
   return res.json();
 }
 
